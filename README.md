@@ -1,2 +1,3 @@
 # Online-Banking-System
-This is a Online Banking System for Client and Admin
+This is a Online Banking System (Client and Admin)
+Copy and paste the bank folder and paste in SQL database.
